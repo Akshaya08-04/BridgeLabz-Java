@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandeling.level2;
+package collectionstreams.exceptionhandeling.level2;
 import java.util.Scanner;
 
 /* Custom exception */
