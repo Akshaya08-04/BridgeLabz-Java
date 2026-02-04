@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.queueinterface;
+package collectionstreams.collections.queueinterface;
 import java.util.*;
 
 public class StackUsingQueues {

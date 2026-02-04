@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.listinterface;
+package collectionstreams.collections.listinterface;
 import java.util.*;
 
 public class ReverseList {

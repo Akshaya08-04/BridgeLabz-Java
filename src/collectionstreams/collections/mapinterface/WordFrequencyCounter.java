@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.mapinterface;
+package collectionstreams.collections.mapinterface;
 
 import java.util.*;
 
