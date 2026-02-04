@@ -1,7 +1,6 @@
-package javacollectionstreams.iostreams;
+package collectionstreams.iostreams;
 import java.io.*;
 import java.util.Scanner;
-
 /*
  Program: Buffered vs Unbuffered File Copy
  Copies a file using both methods and compares execution time.
