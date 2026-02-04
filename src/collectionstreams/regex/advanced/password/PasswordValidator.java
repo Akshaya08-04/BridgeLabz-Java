@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.password;
+package collectionstreams.regex.advanced.password;
 
 public class PasswordValidator {
 

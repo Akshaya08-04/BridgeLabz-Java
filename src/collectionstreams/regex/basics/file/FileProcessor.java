@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.file;
+package collectionstreams.regex.basics.file;
 
 import java.io.*;
 

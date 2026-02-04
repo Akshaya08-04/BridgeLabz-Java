@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.list;
+package collectionstreams.regex.basics.list;
 
 import java.util.List;
 

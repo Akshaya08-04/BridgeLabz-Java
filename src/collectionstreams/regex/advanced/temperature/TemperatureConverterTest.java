@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.temperature;
+package collectionstreams.regex.advanced.temperature;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

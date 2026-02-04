@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.temperature;
+package collectionstreams.regex.advanced.temperature;
 
 public class TemperatureConverter {
 

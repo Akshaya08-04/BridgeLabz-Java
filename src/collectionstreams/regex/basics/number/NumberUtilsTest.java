@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.number;
+package collectionstreams.regex.basics.number;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.params.ParameterizedTest;

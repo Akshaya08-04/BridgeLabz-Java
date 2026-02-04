@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.string;
+package collectionstreams.regex.basics.string;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

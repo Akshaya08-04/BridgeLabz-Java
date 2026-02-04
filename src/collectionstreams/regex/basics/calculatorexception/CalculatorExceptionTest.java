@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.calculatorexception;
+package collectionstreams.regex.basics.calculatorexception;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

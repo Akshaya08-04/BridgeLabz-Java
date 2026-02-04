@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.date;
+package collectionstreams.regex.advanced.date;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

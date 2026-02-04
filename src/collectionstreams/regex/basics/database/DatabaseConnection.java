@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.database;
+package collectionstreams.regex.basics.database;
 
 public class DatabaseConnection {
 

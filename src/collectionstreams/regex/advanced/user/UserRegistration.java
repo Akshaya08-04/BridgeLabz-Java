@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.user;
+package collectionstreams.regex.advanced.user;
 
 public class UserRegistration {
 

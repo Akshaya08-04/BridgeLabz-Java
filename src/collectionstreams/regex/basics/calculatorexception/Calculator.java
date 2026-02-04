@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.calculatorexception;
+package collectionstreams.regex.basics.calculatorexception;
 
 public class Calculator {
 
