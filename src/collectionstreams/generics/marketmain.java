@@ -1,4 +1,4 @@
-package generics;
+package collectionstreams.generics;
 /*
     Program Name : Dynamic Online Marketplace
 
@@ -71,3 +71,4 @@ public class marketmain {
         discount.applyDiscount(g, 5);
     }
 }
+

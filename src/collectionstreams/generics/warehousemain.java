@@ -1,4 +1,4 @@
-package generics;
+package collectionstreams.generics;
 /*
     Program Name : Smart Warehouse Management System
 
