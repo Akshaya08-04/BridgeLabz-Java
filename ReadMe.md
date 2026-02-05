@@ -58,16 +58,23 @@ README File
 
 .24-Jan-2026 (Saturday): Added single-line and multi-line comments to the code in OOPSBannerApp.
 
-.27-Jan-2026 (Tuesday): Completed Week 4 – Day 1 coding problems.
+.27-Jan-2026 (Tuesday): Completed Week 4 – Day 1 Generics coding problems.
 
-.28-Jan-2026 (Wednesday): Completed Week 4 – Day 2 coding problems.
+.28-Jan-2026 (Wednesday): Completed Week 4 – Day 2 Collections coding problems.
 
 .29-Jan-2026 (Thursday): Completed the console-based assignment “Factory Robot Hazard Analyzer.”
 
 .30-Jan-2026 (Friday): Attended a review session on Data Structures and Algorithms.
 
-.31-Jan-2026 (Saturday): Completed Week 4 - Day 3 Practice Problems and revised Data Structures and Algorithms
+.31-Jan-2026 (Saturday): Completed Week 4 - Day 3 I/O Streams Practice Problems and revised Data Structures and Algorithms
 
+.2-Feb-2026(Monday): Started with Week 4 -  Day 4 Exception Handling theory and completed Problem statements 
+
+.3-Feb-2026(Tuesday): Completed a console-based application assignment "Ocean Fleet App"
+
+.4-Feb-2026(Wednesday): Completed Week 4 - Day 5 Regex & JUnit Practice problems
+
+.5-Feb-2026(Thursday): Completed Java 8 Features problem statement and practics problems.
 
 
 
