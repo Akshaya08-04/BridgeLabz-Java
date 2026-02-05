@@ -34,9 +34,7 @@ README File
 
 • 10-Jan-2026 (Saturday): Revised Java basics including variables, data types, operators, and input/output handling.
 
-• 11-Jan-2026 (Sunday): Practiced Programming Elements and solved related Java problems.
-
-• 12-Jan-2026 (Monday): Continued Programming Elements and strengthened logical problem-solving skills.
+• 12-Jan-2026 (Sunday): Practiced Programming Elements and solved related Java problems and strengthened logical problem-solving skills.
 
 • 13-Jan-2026 (Tuesday): Studied Control Flow concepts including conditional statements and loops,Solved Control Flow Level 1 and Level 2 programs and committed changes to feature/CoreProgramming branch.
 
@@ -69,6 +67,7 @@ README File
 .30-Jan-2026 (Friday): Attended a review session on Data Structures and Algorithms.
 
 .31-Jan-2026 (Saturday): Completed Week 4 - Day 3 Practice Problems and revised Data Structures and Algorithms
+
 
 
 
