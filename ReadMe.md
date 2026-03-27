@@ -140,7 +140,7 @@ README File
 
 •20-Mar-2026 (Friday): Completed Spring Employee Payroll App setup with Service Layer.
 
-•21-Mar-2026(Monday): Practised for M1 exam.
+•23-Mar-2026(Monday): Practised for M1 exam.
 
 •24-Mar-2026 (Tuesday): Attended M1 exam and  Completed Spring Employee Payroll App application settings, validators, and exception handlers.
 
