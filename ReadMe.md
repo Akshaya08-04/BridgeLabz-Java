@@ -148,7 +148,33 @@ README File
 
 •26-Mar-2026 (Thursday): completed pending Spring Boot work, and prepared GitHub submissions for review.
 
+•27-Mar-2026 (Friday): Started working on address book app and pushed code to git repo.
 
+•28-Mar-2026 (Saturday): Delivered a presentation on "Adaptability" during a Power Skills session.
+
+•30-Mar-2026 (Monday): Completed UC15 of Quantity Measurement application and updated the "Quantity-Measurement-App" repository.
+
+•01-Apr-2026 (Wednesday): Completed Hospital Management application and uploaded it to "Hospital-Management-App" repository.
+
+•02-Apr-2026 (Thursday): Started working on FundooNotes application covering concepts like RabbitMQ, Redis, and JWT.
+
+•03-Apr-2026 (Friday): Delivered a presentation on "JPQL (Java Persistence Query Language)" and answered mentor questions.
+
+•04-Apr-2026 (Saturday): Attended Power Skills training.
+
+•06-Apr-2026 (Monday): Worked on UC16 of Quantity Measurement application and updated the GitHub repository.
+
+•07-Apr-2026 (Tuesday): Worked on UC17 of Quantity Measurement application and updated the repository.
+
+•08-Apr-2026 (Wednesday): Delivered a presentation on "Dependency Injection" and clarified doubts with mentors.
+
+•09-Apr-2026 (Thursday): Started learning concepts of JMS and Redis.
+
+•10-Apr-2026 (Saturday): Delivered a presentation on "Bean Concepts" with the project team.
+
+•11-Apr-2026 (Saturday): Attended Power Skills training, focusing on grammar and professional email writing.
+
+•13-Apr-2026 (Monday): Started learning RabbitMQ, Spring Batch, Excel integration, and Microservices concepts.
 
 
 
