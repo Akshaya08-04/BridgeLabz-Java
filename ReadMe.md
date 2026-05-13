@@ -176,7 +176,54 @@ README File
 
 •13-Apr-2026 (Monday): Started learning RabbitMQ, Spring Batch, Excel integration, and Microservices concepts.
 
+•14-April-2026 (Tuesday): Started learning concepts of Redis for microservices.
 
+•15-April-2026 (Wednesday): Started learning concepts for microservices.
+
+•16-April-2026 (Thursday): Covered important concepts for microservices and did the basic setup for E-commerse app that implements microservice.
+
+•17-April-2026 (Friday): Started working on book store microservices completed infra-services which include Eureka, config and API gateway.
+
+•18-April-2026 (Saturday): Attended power-skills training, revised presentation fundamentals and communication rules.
+
+•20-April-2026 (Monday): Completed working on infra-services and started working on admin-services.
+
+•21-Apr-2026 (Tuesday): Completed the Admin Service and started working on Common Library and User Service.
+
+•22-Apr-2026 (Wednesday): Completed Common Library and User Service.
+
+•23-Apr-2026 (Thursday): Started working on Order Service and Product Service.
+
+•24-Apr-2026 (Friday): Completed Order Service and Product Service and started working on Notification Service.
+
+•25-Apr-2026 (Saturday): Attended Power Skills training and revised presentation fundamentals and communication rules.
+
+•27-Apr-2026 (Monday): Completed Notification Service and started working on Wishlist Service and Feedback Service.
+
+•28-Apr-2026 (Tuesday): Completed all infrastructure services.
+
+•29-Apr-2026 (Wednesday): Tested all API endpoints and pushed the complete Book Store E-Commerce Microservices project to GitHub
+ in a repository named bookstore-microservices.
+ 
+•30-Apr-2026 (Thursday): Started learning Cloud Computing and Amazon Web Services (AWS)
+
+•02-May-2026 (Saturday): Attended Power Skills training and revised presentation fundamentals and communication rules.
+
+•04-May-2026 (Monday): Learned concepts of Docker
+
+•05-May-2026 (Tuesday): Attempted to deploy the previously built Greeting Application using AWS and Docker.
+
+•06-May-2026 (Wednesday): Started working on the group project Crypto Portfolio Monitoring Application and worked on portfolio Service.
+
+•07-May-2026 (Thursday): Completed initial Service setup.
+
+•09-May-2026 (Saturday): Attended recap session for Soft Skills.
+
+•11-May-2026 (Monday): Pushed Portfolio Service to the common GitHub repository maintained by the team lead.
+
+•12-May-2026 (Tuesday): Worked on portfolio service for authentication purpose.
+
+•13-May-2026 (Wednesday): Cross-verified that all GitHub repositories and folder structures were properly organized.
 
 
 
